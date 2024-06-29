@@ -210,7 +210,7 @@ export default function Footer() {
               <Textcomp>
                 <Link href={"#"}>
                   <Text fontSize={"12px"} color={"#717171"}>
-                    Shipping Policy
+                    Shipping Polic
                   </Text>
                 </Link>
               </Textcomp>
