@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+.TextFieldLable{
+  color:rgb(189, 186, 186) !important
+}
+.TextFieldInput{
+  color:rgb(189, 186, 186) !important
+}
+.MuiOutlinedInput-notchedOutline {
+  border-color: rgb(189, 186, 186) !important;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
